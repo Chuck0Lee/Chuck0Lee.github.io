@@ -1,4 +1,4 @@
-# Blog Title :link: https://Chuck0Lee.github.io 
+# Lee Qichang's Blog: link: https://Chuck0Lee.github.io 
 ### :page_facing_up: [0](https://Chuck0Lee.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
